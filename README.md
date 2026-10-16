@@ -80,3 +80,7 @@ A design concept and curated curriculum for combining programming education with
 The curriculum materials here (`curriculum/`) summarize a Coursera-inspired data science learning path (Google Data Analytics Professional Certificate, IBM Data Science Professional Certificate, university online degrees, and the three core work areas of a data science team: insight work, product experimentation, analytics enablement), intended to eventually be referenced by open-english's AI-teacher feature (not yet wired up — see "Current scope" above for the honest status).
 
 A separate, opt-in feature is planned: letting a user paste a news article, blog post, URL, or freelance job posting and — **only if they choose to** — get help planning a small app/website together with the AI teacher, practicing whichever language they're chatting in along the way. This is design-only for now; see [curriculum/collaborative-dev-concept.md](curriculum/collaborative-dev-concept.md) for the plan and the honest reasons it isn't implemented yet (browser CORS limits on fetching arbitrary URLs, and the safety design needed before shipping it).
+
+---
+
+作者 / Author: 石塚正浩（MASAHIRO ISHIZUKA） (https://github.com/aon-co-jp)
